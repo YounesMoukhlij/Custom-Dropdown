@@ -1,6 +1,6 @@
 # Custom Dropdown 🍕
 
-**Project Subject:** https://roadmap.sh/projects/custom-dropdown
+[Project Subject](https://roadmap.sh/projects/custom-dropdown)
 
 <div align="center">
 
@@ -12,10 +12,10 @@ A modern, interactive dropdown menu built with HTML, CSS, and JavaScript featuri
 ## 📸 Preview
 
 ### Default State
-![Dropdown Default State](assets/1.png)
+<img src="images/1.png" alt="Flash Card Question" width="500">
 
 ### Open State
-![Dropdown Open State](assets/2.png)
+<img src="images/2.png" alt="Flash Card Answer" width="500">
 
 ## ✨ Features
 
