@@ -12,10 +12,10 @@ A modern, interactive dropdown menu built with HTML, CSS, and JavaScript featuri
 ## 📸 Preview
 
 ### Default State
-<img src="images/1.png" alt="Flash Card Question" width="500">
+<img src="./assets/1.png" alt="Flash Card Question" width="500">
 
 ### Open State
-<img src="images/2.png" alt="Flash Card Answer" width="500">
+<img src="./assets/2.png" alt="Flash Card Answer" width="500">
 
 ## ✨ Features
 
