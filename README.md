@@ -9,7 +9,7 @@ A modern, interactive dropdown menu built with HTML, CSS, and JavaScript featuri
 ### Default State
 ![Dropdown Default State](assets/1.png)
 
-### Open State  
+### Open State
 ![Dropdown Open State](assets/2.png)
 
 ## ✨ Features
